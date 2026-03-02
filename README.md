@@ -16,6 +16,9 @@ Ce référentiel regroupe une série de projets que j'ai développés au fil du 
 4. **Écotourisme (En Cours de Développement) :**
    - Écotourisme est une plateforme en ligne innovante répondant à l'urgence environnementale du secteur du tourisme. Elle intègre des critères économiques et environnementaux pour offrir une expérience de voyage personnalisée et responsable. Le projet inclut également des statistiques comparatives sur l'économie, l'écologie et le tourisme.
 
+5. **TER - Élaboration d'un indice de risque climatique pour la tarification des assurances**
+   - Dans un contexte de dérèglement climatique croissant, l’évaluation des risques environnementaux est devenue un enjeu majeur pour le secteur de l’assurance. Dans le cadre de notre projet de recherche, encadré par Anne Eyraud, nous avons construit un indice de risque climatique afin d’analyser son potentiel pour la tarification en assurance, en identifiant des critères pertinents, en étudiant les principes de la tarification et en recherchant des bases de données adaptées. Face à la complexité du sujet, nous avons réalisé une application numérique simplifiée en élaborant un score de risque climatique appliqué aux régions françaises, illustrant l’intégration d’indicateurs environnementaux dans un cadre actuariel orienté vers la tarification.
+
 ## Technologies
 
 Les projets font usage de nombreuses technologies, notamment : PHP, SQL, R, HTML, CSS, JavaScript, et Python.
